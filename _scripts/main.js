@@ -7,7 +7,7 @@ function pesquisarFilmes(e){
 }
 
 function buscarFilmes(filmepesquisa){
-  axios.get('http://www.omdbapi.com/?apiKey=8739210d&s='+filmepesquisa) // busca o titulo do filme inserido na API
+  axios.get('http://www.omdbapi.com/?apiKey=APIKeyHere&s='+filmepesquisa) // busca o titulo do filme inserido na API
   .then(function (response) {
     console.log(response); // mostra resultados no log
       var filmes = response.data.Search; //data e search são as ramificações do objeto json que o response tras
@@ -39,7 +39,7 @@ function filmeDetalhes(id){
 
 function mostraFilmes(){
     var filmeID = sessionStorage.getItem('filmeID');
-    axios.get('http://www.omdbapi.com/?apiKey=8739210d&i='+filmeID) // busca o filme pelo ID salvo na seção
+    axios.get('http://www.omdbapi.com/?apiKey=APIKeyHere&i='+filmeID) // busca o filme pelo ID salvo na seção
   .then(function (response) {
     var filme = response.data; // armazena filme buscado
     console.log(filme); // exibe filme no log

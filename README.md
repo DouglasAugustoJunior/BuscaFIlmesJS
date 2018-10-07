@@ -7,9 +7,9 @@
  
 O **Buscar Filmes** é um projeto simples que utilizei para praticar meus conhecimentos em JS.
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/BuscaFilmesJS/blob/master/_images/Busca.PNG?raw=true)
 
-![Imagem](https://github.com/DouglasAugustoJunior/)
+![Imagem](https://github.com/DouglasAugustoJunior/BuscaFilmesJS/blob/master/_images/Detalhe.PNG?raw=true)
 
 
  
