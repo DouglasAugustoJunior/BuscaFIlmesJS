@@ -5,7 +5,7 @@
  
 ![LINGUAGEM FINALIDADE](https://img.shields.io/badge/javascript-system-orange.svg)
  
-O **Buscar Filmes** é um projeto simples que utilizei para praticar meus conhecimentos em JS.
+O **Buscar Filmes** é um projeto simples que utilizei para praticar meus conhecimentos em JS. **[Projeto Online](https://douglasaugustojunior.github.io/BuscaFilmesJS/)**
 
 ![Imagem](https://github.com/DouglasAugustoJunior/BuscaFilmesJS/blob/master/_images/Busca.PNG?raw=true)
 
