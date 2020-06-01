@@ -45,7 +45,7 @@ Desenvolvido em HTML5,CSS3,Bootstrap e JS, ele traz diversas situações interes
  
 
  
-##Detalhes Filmes
+## Detalhes Filmes
  
 
         function filmeDetalhes(id){
